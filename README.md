@@ -1,4 +1,5 @@
  I worked on analyzing JioSaavn’s music data using SQL. With 11 interconnected tables, I got to deep dive into various aspects of data management and analysis. 
+ The dataset used in this project was sourced from Kaggle.com and it contains 11 different tabels like employee, customer ,invoice ,invoice_line ,playlist_track , playlist ,artist, album, track ,media_type , genre. 
  
 Some key highlights include:
 Complex Joins and Subqueries to extract valuable insights 🎯
